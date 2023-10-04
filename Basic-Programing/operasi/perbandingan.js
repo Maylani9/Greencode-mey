@@ -8,3 +8,7 @@ let samaDengan = 6 == 3;
 let tidakSamaDengan = 6 != 3;
 let tidakSamaDengan2x = 6 !== 3;
 let samaDengan3 = "6" === 6;
+
+let mahasiswa = false;
+mahasiswa = true;
+mahasiswa ? console.log("aku mahasiswa") : console.log("aku bukan mahasiswa");
